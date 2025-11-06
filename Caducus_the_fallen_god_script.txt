@@ -15,7 +15,7 @@ local function showUpdateText()
     local textLabel = Instance.new("TextLabel")
     textLabel.BackgroundTransparency = 1
     textLabel.Size = UDim2.fromScale(1, 1)
-    textLabel.Text = "updated by c00lkidd4ing2XD on yt."
+    textLabel.Text = "updated by teamjohndoe on discord https://discord.gg/4wGpMHdXYa."
     textLabel.TextColor3 = Color3.new(1, 0, 0)
     textLabel.Font = Enum.Font.SourceSansBold
     textLabel.TextScaled = false
