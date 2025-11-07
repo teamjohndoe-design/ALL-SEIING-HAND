@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "ban_notification";
-	Text = "This script is converted by ban_thid...";
+	Title = "Succès";
+	Text = "join now https://discord.gg/4wGpMHdXYa";
 	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
 Duration = 15;
 
@@ -8,7 +8,7 @@ warn("<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>")
 
 			warn(">Caducus the Fallen God<")
 	
-warn("Script created by SezHu for public use in Void's Script Builder.")
+warn("Script created by johndoe for public use in lisence Script Builder.")
 
 warn("<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>")
 
@@ -2352,4 +2352,5 @@ while true do
 	RootPart.Velocity = RootPart.CFrame.lookVector * 100
 	end
 end
+
 end)()
